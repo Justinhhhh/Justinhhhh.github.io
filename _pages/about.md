@@ -15,7 +15,3 @@ You can find my CV here: [Zhiguang'S CV](../assets/CV.pdf)
 Hobbies
 ------
 Coding, Anime, Hiking, Kpop, Politics
-
-Contact
-------
-[Email](zhan010@e.ntu.edu.sg)/[Github](https://github.com/Justinhhhh)/[Wechat](peace_JHZG)
