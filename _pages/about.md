@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-
-
-
+<br />
+<br />
 I'm a third year undergraduate student from NTU. 
 
 My research focuses on computer vision, Natural Language Processing, and Trustworthy AI. The overarching objective of my work is to bridge the gap between Computer Vision and NLP, while also comprehending their existing limitations and shortcomings, to enhance human experiences through safe AI tools.
@@ -19,8 +18,9 @@ I did my summer research at The University of Hong Kong under the supervision of
 
 You can find my CV here: [Zhiguang's CV](../assets/CV.pdf)
 
-$\it{abcdefghijklmnopqrstuvwxyz}$
 
+
+<br />
 
 Hobbies
 ------
