@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. Nanyang Technological University 2021 - 2025(Expected), Singapore
+* B.S. The University Of Auckland 2021, New Zealand (Dropout)
 
 Work experience
 ======
@@ -22,16 +21,10 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2023: Research Assistant
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2023 July - August: Research Assistant - The University of Hong Kong
+  * Supervisor: Prof.Heming Cui
 Skills
 ======
 * Skill 1
