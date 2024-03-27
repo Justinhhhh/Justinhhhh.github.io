@@ -19,6 +19,8 @@ I did my summer research at The University of Hong Kong under the supervision of
 
 You can find my CV here: [Zhiguang's CV](../assets/CV.pdf)
 
+$\it{abcdefghijklmnopqrstuvwxyz}$
+
 
 Hobbies
 ------
