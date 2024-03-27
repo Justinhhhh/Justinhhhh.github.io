@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<br />
 <br />
 I'm a third year undergraduate student from NTU. 
 
@@ -17,7 +15,6 @@ I did my summer research at The University of Hong Kong under the supervision of
 
 
 You can find my CV here: [Zhiguang's CV](../assets/CV.pdf)
-
 
 
 <br />
