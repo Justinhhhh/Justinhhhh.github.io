@@ -16,42 +16,19 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 01/2024 - Now: Research Assistant - A*STAR I2R Department, Singapore
+  * Supervisor: Dr.Lin Dongyun
+  
+* Winter 12/2023 - 01/2024: Research Assistant - A*STAR IHPC Department, Singapore
+  * Supervisor: Dr.Song Yuting
 
-* Winter 2023: Research Assistant
-
-* Summer 2023 July - August: Research Assistant - The University of Hong Kong
+* Summer 07/2023 - 8/2023: Research Assistant - The University of Hong Kong, Hong Kong
   * Supervisor: Prof.Heming Cui
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+
+You can find out more here: [Zhiguang's CV](../assets/CV.pdf)
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+
+
