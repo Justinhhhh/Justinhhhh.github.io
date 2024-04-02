@@ -1,8 +1,8 @@
 
 ---
 title: 'HKU Summer Research'
-date: 2023-07-30
-permalink: /posts/2012/08/blog-post-4/
+date: 2023-08-1
+permalink: /posts/2023/07/HKU/
 tags:
   - AI
   - Summer Research
