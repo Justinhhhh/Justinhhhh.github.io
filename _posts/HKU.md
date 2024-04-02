@@ -1,1 +1,17 @@
 
+---
+title: 'HKU Summer Research'
+date: 2023-07-30
+permalink: /posts/2012/08/blog-post-4/
+tags:
+  - AI
+  - Summer Research
+  - Friends
+---
+
+Thanks to HKU for giving me the opportunity to work in this lovely university. I had a great and memorable time there, which marked my first step into research. Throughout this valuable internship, I realized that what truly mattered to me during this period were the connections I formed with a group of friends who shared my passion and ambition. This is a crucial factor motivating me to pursue research further, as it enables me to make friends who share the same passions and interests.
+
+
+
+
+
