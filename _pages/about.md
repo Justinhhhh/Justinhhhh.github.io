@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <br />
-I'm a third year undergraduate student from NTU. 
+I'm a third year computer science student from NTU,Singapore. 
 
 My research focuses on computer vision, Natural Language Processing, and Trustworthy AI. The overarching objective of my work is to bridge the gap between Computer Vision and NLP, while also comprehending their existing limitations and shortcomings, to enhance human experiences through safe AI tools.
 
