@@ -1,7 +1,21 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "一些感慨"
+excerpt: ""
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+和一个人在一起，不论是友情还是爱情，都是一段充满了起起落落、分分合合的旅程。这段旅程就像是一场奇妙的舞蹈，时而激情洋溢，时而温柔细腻。
+
+在一起的时候，我们经历了无数美好的时刻。我们分享彼此的喜怒哀乐，相互扶持，共同成长。那些笑声、泪水、拥抱，都成为了回忆中闪烁的宝藏，让我们感受到生活的温暖和美好。
+
+然而，分分合合也是不可避免的。生活中的挑战和考验会不断出现，我们也会因为各种原因产生分歧和摩擦。在一起的日子里，我们或许会经历争吵、冷战，甚至是分手。这些痛苦的时刻让我们感受到了心灵的撕裂和煎熬。
+
+但正是在这些分分合合的经历中，我们才更加深刻地理解了彼此。我们学会了包容与理解，学会了坦诚与宽容。每一次的分分合合都是一次成长的机会，让我们更加成熟、更加坚强。
+
+无论是快乐还是痛苦，和她在一起的每一刻都值得珍惜。因为正是这些经历，让我们的感情变得更加深厚，让我们的人生变得更加丰富多彩。在这段旅程中，我们彼此相伴相随，共同创造着属于我们的故事，让它成为永远的记忆，永远的珍藏。
+
+
+
+
+
+
