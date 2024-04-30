@@ -1,5 +1,5 @@
 ---
-title: "致林艺彤 - 那位可爱的女孩子"
+title: "Whalien-520"
 excerpt: ""
 collection: portfolio
 ---
@@ -15,8 +15,6 @@ To Ms. Yitong,
 我们俩就像是两条孤独的鲸鱼在这片蔚蓝的大海中，用52赫兹发出自己的声音，或许别人无法接收的到，但这52赫兹是属于我们彼此之间独有的讯号。
 
 You never walk alone
-
-
 
 
 
