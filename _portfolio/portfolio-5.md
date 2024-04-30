@@ -1,10 +1,8 @@
-
 ---
-title: "Whalien 520"
+title: "致林艺彤 - 那位可爱的女孩子"
 excerpt: ""
 collection: portfolio
 ---
-
 
 To Ms. Yitong,
 
