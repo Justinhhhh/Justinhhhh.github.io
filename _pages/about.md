@@ -15,8 +15,7 @@ I did my summer research at The University of Hong Kong under the supervision of
 
 You can find my CV here: [Zhiguang's CV](../assets/CV.pdf)
 
-<p hidden> and a remote intern at CISPA supervised by [Prof.Zhang](https://yangzhangalmo.github.io/). </p>
-
+<!-- and a remote intern at CISPA supervised by [Prof.Zhang](https://yangzhangalmo.github.io/) -->
 
 
 <br />
