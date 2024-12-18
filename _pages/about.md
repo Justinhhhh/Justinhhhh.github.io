@@ -7,21 +7,22 @@ redirect_from:
   - /about.html
 ---
 <br />
-I'm a third year computer science student from NTU,Singapore. 
 
-My research focuses on computer vision, Natural Language Processing, and Trustworthy AI. The overarching objective of my work is to bridge the gap between Computer Vision and NLP, while also comprehending their existing limitations and shortcomings, to enhance human experiences through safe AI tools.
+I'm a final year computer science student from NTU, Singapore. 
 
-I did my summer research at The University of Hong Kong under the supervision of [Prof.Cui](https://i.cs.hku.hk/~heming/), and completed my winter internship at A\*STAR IHPC Department under the supervision of [Dr.Song](https://sites.google.com/view/yutingsong/home). Currently, I'm working as a research intern at the A\*STAR I2R Department mentored by [Dr.Lin](https://thomaslin1990.github.io).
+My research primarily focuses on Natural Language Processing and Trustworthy Large Language Models (LLMs). The overarching goal of my work is to bridge the gap in understanding the existing capabilities and limitations of LLMs while enhancing them to improve human experiences through safe and reliable AI tools.
 
-You can find my CV here: [Zhiguang's CV](../assets/CV.pdf)
+I was fortunate to study and work at different universities and in various places. It has been my honor to meet incredible people from all over the world, and I am grateful to have been supervised by [Prof.Cui](https://i.cs.hku.hk/~heming/), [Dr.Song](https://sites.google.com/view/yutingsong/home), [Dr.Lin](https://thomaslin1990.github.io) and [Prof.Stephan](https://ambientintelligence.aalto.fi/team_stephan.php).
 
-<!-- and a remote intern at CISPA supervised by [Prof.Zhang](https://yangzhangalmo.github.io/) -->
+You can find more details in my CV here: [Zhiguang's CV](../assets/CV.pdf)
+
+Thanks for stopping by. I hope you have a great day! <:
 
 
 <br />
 
-Hobbies
+Hobbies/Interests
 ------
 
 
-Coding, Hiking, Politics, Kpop, Anime
+AI, Coding, Hiking, Politics, History, Kpop, Anime
